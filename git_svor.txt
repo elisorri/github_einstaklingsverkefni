@@ -21,3 +21,5 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 		útgáfustýring er að hafa skipurlagða stýringu á útgáfum forrita
 
+5.	Hverjir eru helstu kostir við að nota GIT?		það gerir það auðveldara að vinna saman
+
