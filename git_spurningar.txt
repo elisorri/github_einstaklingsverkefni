@@ -1,12 +1,12 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd				breytir um hvaða möppu þú ert í
-	cd ~			færir þig í heimamöppuna
-	ls				birtir lista yfir skrár í möppu
-	pwd				sýnir hvaða möppu þú ert í og leiðina að henni
-	mkdir			býr til nýja möppu
+	cd				
+	cd ~			
+	ls				
+	pwd				
+	mkdir			
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
+	git clone		
 	git log
 	git status
 	git diff

@@ -6,3 +6,10 @@
 	ls				birtir lista yfir skrár í möppu
 	pwd				sýnir hvaða möppu þú ert í og leiðina að henni
 	mkdir			býr til nýja möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone		klónar geymslu á tölvuna
+	git log			sýnir öll commit
+	git status		sýnir stöðu greinarinnar sem þú ert notandi
+	git diff		sýnir breytingar í hverju commiti
+	git checkout	breytir um grein
