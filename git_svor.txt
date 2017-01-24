@@ -18,3 +18,6 @@
 	a) git diff 						sýnir breytingar í hverju commiti
 	b) git diff --staged 				sýnir breytingar frá commiti sem þú velur og því sem þú ert að fara að commita
 	c) git diff commit1 commit2			sýnir breytingar á milli tveggja commita
+
+4. 	Hvað er útgáfustýring (e.version control)? 		útgáfustýring er að hafa skipurlagða stýringu á útgáfum forrita
+
