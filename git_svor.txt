@@ -29,3 +29,5 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 		það er gott að nota greinar ef þú veist ekki hvort að breytingarnar muni virka
 
+9.	Hver fann upp GIT? 		Linus Torvalds
+
