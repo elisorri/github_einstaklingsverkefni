@@ -10,7 +10,7 @@
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone							klónar geymslu á tölvuna
 	git log								sýnir öll commit
-	git status							sýnir stöðu greinarinnar sem þú ert notandi
+	git status							sýnir stöðu greinarinnar sem þú ert að nota
 	git diff							sýnir breytingar í hverju commiti
 	git checkout						breytir um grein
 
@@ -23,3 +23,4 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?		það gerir það auðveldara að vinna saman
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?		fer eftir hversu stórt verkefnið er
